@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "887114062235",
+    "firebase_url": "https://ettendance-e5499-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "ettendance-e5499",
+    "storage_bucket": "ettendance-e5499.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:887114062235:android:3bf9224a5634d724fee93e",
+        "android_client_info": {
+          "package_name": "com.example.e_attendance"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEdlZ4AUsPpMx89kz6YRzR2usPtK87vXU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:887114062235:android:17c74cab3da44b44fee93e",
+        "android_client_info": {
+          "package_name": "com.example.e_ttendance"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEdlZ4AUsPpMx89kz6YRzR2usPtK87vXU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:887114062235:android:40e1ac3bb8267889fee93e",
+        "android_client_info": {
+          "package_name": "com.example.ettendance"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEdlZ4AUsPpMx89kz6YRzR2usPtK87vXU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
